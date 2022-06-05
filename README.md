@@ -1,5 +1,8 @@
 # `Vue 3.x + Quasar 2.x template with Vite`
 
+# Netlify link
+https://valasztasok-homework-frontend.netlify.app/report
+
 # For proper intellisense in template block
 When created a new *.vue file or rename one you must to restart Volar language server:<br>
 1. F1 -> Command palette<br>
