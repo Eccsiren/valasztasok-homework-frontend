@@ -55,7 +55,7 @@
       icon: "mdi-github",
       text: "Frontend",
       name: "",
-      link: "https://github.com/nitslaszlo/epitmenyado-frontend",
+      link: "https://github.com/Eccsiren/valasztasok-homework-frontend",
       disabled: false,
       separator: false,
     },
